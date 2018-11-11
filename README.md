@@ -3,3 +3,6 @@ A machine Learning course taking in Northwestern University during my master deg
 
 ## Assignment 1 
 Assignment 1 is related to Linear Regression and Linear two-class classification. You can refer to the [Professor Jeremy Watt's website](https://jermwatt.github.io/mlrefined/index.html) and find detailed course material about these two topics and other topics which will be taught in the class later. 
+
+## Assignment 2 
+Assignment 2 is related to Linear multi-class classification and Linear unsupervised learning. You can refer to the [Professor Jeremy Watt's website](https://jermwatt.github.io/mlrefined/index.html) and find detailed course material about these two topics and other topics which will be taught in the class later. 
